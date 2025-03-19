@@ -8,8 +8,6 @@ This is a simple React project that demonstrates the use of `useTransition`. The
 - Displays a loading message while processing a large list.
 - Demonstrates performance optimization in React.
 
-`
-
 ## License
 
 This project is open-source and available under the MIT License.
